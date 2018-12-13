@@ -1,6 +1,6 @@
 ﻿using System.Web;
 using System.Web.Optimization;
-// try
+
 namespace VideoTranscription
 {
     public class BundleConfig
